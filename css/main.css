@@ -1,0 +1,17 @@
+body {
+	background-color: rgb(48,170,233);
+}
+
+p {
+	color: green;
+}
+
+.largeRed {
+	font-size: 24px;
+	color: red;
+}
+
+#garamondBlue {
+	font-family: Garamond;
+	color: blue;
+}
